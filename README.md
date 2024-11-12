@@ -25,16 +25,16 @@
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-      git clone https://github.com/KumarP123IT/ATM_Simulator.git
+    git clone https://github.com/KumarP123IT/ATM_Simulator.git
    ```
 2. Navigate to the project directory:
    ```bash
-      cd ATM-Simulator
+    cd ATM-Simulator
    ```
 3. Compile and run the program:
    ```bash
-      javac ATM.java
-      java ATM
+    javac ATM.java
+    java ATM
    ```
 ---
 
