@@ -54,7 +54,9 @@ Feel free to reach out on LinkedIn for any questions or feedback.
 ---
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2024 [Kumar P](https://www.linkedin.com/in/kumar-p-bbbbb3252/)
 
 
    
